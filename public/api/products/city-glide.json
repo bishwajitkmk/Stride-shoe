@@ -1,0 +1,17 @@
+{
+  "id": 12,
+  "slug": "city-glide",
+  "name": "City Glide",
+  "category": "Casual",
+  "price": 59.99,
+  "color": "Beige",
+  "sizes": [
+    37,
+    38,
+    39,
+    40
+  ],
+  "available": true,
+  "description": "Slip-on design with a memory foam footbed for maximum convenience.",
+  "image": "/products/shoe-1.svg"
+}

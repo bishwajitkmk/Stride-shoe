@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "slug": "stride-runner",
+  "name": "Stride Runner",
+  "category": "Running",
+  "price": 79.99,
+  "color": "Black",
+  "sizes": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "available": true,
+  "description": "Lightweight running shoes designed for everyday training.",
+  "image": "/products/shoe-3.svg"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stride product API",
+  "description": "Static JSON for the Stride demo shoe store. Generated at build time from the site's product catalogue.",
+  "endpoints": {
+    "/api/products": "Every product, plus the category and size lists",
+    "/api/products/:slug": "A single product, e.g. /api/products/stride-runner",
+    "/api/categories": "Categories with product counts and slugs"
+  },
+  "count": 25
+}

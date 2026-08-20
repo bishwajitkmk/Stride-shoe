@@ -1,0 +1,17 @@
+{
+  "id": 9,
+  "slug": "trail-x",
+  "name": "Trail X",
+  "category": "Running",
+  "price": 99.99,
+  "color": "Olive",
+  "sizes": [
+    42,
+    43,
+    44,
+    45
+  ],
+  "available": true,
+  "description": "Rugged outdoor shoe with aggressive traction for uneven terrain.",
+  "image": "/products/shoe-3.svg"
+}

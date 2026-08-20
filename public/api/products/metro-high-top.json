@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "slug": "metro-high-top",
+  "name": "Metro High-Top",
+  "category": "Sneakers",
+  "price": 84.99,
+  "color": "Black",
+  "sizes": [
+    39,
+    40,
+    42,
+    43,
+    44
+  ],
+  "available": true,
+  "description": "Classic high-top silhouette with reinforced ankle support.",
+  "image": "/products/shoe-1.svg"
+}

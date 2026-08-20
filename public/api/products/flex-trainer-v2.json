@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "slug": "flex-trainer-v2",
+  "name": "Flex Trainer V2",
+  "category": "Training",
+  "price": 69.99,
+  "color": "Blue",
+  "sizes": [
+    40,
+    41,
+    42
+  ],
+  "available": false,
+  "description": "Flexible cross-training shoe perfect for HIIT and dynamic workouts.",
+  "image": "/products/shoe-2.svg"
+}

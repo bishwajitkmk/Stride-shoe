@@ -1,0 +1,19 @@
+{
+  "id": 10,
+  "slug": "classic-court",
+  "name": "Classic Court",
+  "category": "Sneakers",
+  "price": 79.99,
+  "color": "White",
+  "sizes": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "available": true,
+  "description": "Vintage-inspired court shoe featuring premium synthetic leather.",
+  "image": "/products/shoe-1.svg"
+}

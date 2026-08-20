@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "slug": "daily-canvas",
+  "name": "Daily Canvas",
+  "category": "Casual",
+  "price": 44.99,
+  "color": "Cream",
+  "sizes": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "available": true,
+  "description": "Relaxed low-top canvas shoe ideal for weekends and slow days.",
+  "image": "/products/shoe-1.svg"
+}

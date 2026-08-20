@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "slug": "horizon-trekker",
+  "name": "Horizon Trekker",
+  "category": "Running",
+  "price": 109.99,
+  "color": "Orange",
+  "sizes": [
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "available": true,
+  "description": "Water-resistant trail running shoe built for all-weather conditions.",
+  "image": "/products/shoe-2.svg"
+}

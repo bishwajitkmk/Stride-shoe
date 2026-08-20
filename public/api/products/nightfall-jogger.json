@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "slug": "nightfall-jogger",
+  "name": "Nightfall Jogger",
+  "category": "Running",
+  "price": 89.99,
+  "color": "Purple",
+  "sizes": [
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "available": true,
+  "description": "Reflective detailing across the upper keeps you visible during night runs.",
+  "image": "/products/shoe-2.svg"
+}

@@ -29,8 +29,29 @@ and is rendered straight into the pages — nothing is fetched at runtime.
 To add a shoe, append an object with a unique `id` and `slug`, then generate
 a matching image in `public/products/`.
 
+## JSON API
+
+The catalogue is also published as static JSON, generated from
+`src/data/products.js` at build time by [`scripts/generate-api.mjs`](scripts/generate-api.mjs):
+
+| Endpoint              | Returns                                          |
+| --------------------- | ------------------------------------------------ |
+| `/api`                | Index of the endpoints below                      |
+| `/api/products`       | All products, plus the category and size lists    |
+| `/api/products/:slug` | One product, e.g. `/api/products/stride-runner`   |
+| `/api/categories`     | Categories with product counts and slugs          |
+
+Every endpoint also answers on its `.json` path (`/api/products.json`), sends
+`Access-Control-Allow-Origin: *`, and is a plain file on disk — no server
+runtime. Regenerate after editing the catalogue:
+
+```bash
+npm run generate:api    # also runs automatically before dev and build
+```
+
 ## Deploy (Vercel)
 
 Import the repo; Vercel detects Vite. Build `npm run build`, output `dist`.
-`vercel.json` rewrites all paths to `index.html` so `/shop/stride-runner`
-works on a direct page load.
+`vercel.json` maps the extensionless API routes to their JSON files and
+rewrites everything else to `index.html`, so both `/shop/stride-runner` and
+`/api/products` work on a direct page load.

@@ -1,0 +1,54 @@
+{
+  "count": 4,
+  "categories": [
+    {
+      "name": "Casual",
+      "count": 6,
+      "slugs": [
+        "urban-walker",
+        "daily-canvas",
+        "city-glide",
+        "lounge-slip-on",
+        "sunday-loafer",
+        "coastal-cruiser"
+      ]
+    },
+    {
+      "name": "Running",
+      "count": 9,
+      "slugs": [
+        "stride-runner",
+        "aero-run-x1",
+        "velocity-pro",
+        "trail-x",
+        "stride-phantom",
+        "horizon-trekker",
+        "sprint-elite",
+        "nightfall-jogger",
+        "ultraboost-terra"
+      ]
+    },
+    {
+      "name": "Sneakers",
+      "count": 5,
+      "slugs": [
+        "street-one",
+        "classic-court",
+        "metro-high-top",
+        "heritage-leather",
+        "vintage-court"
+      ]
+    },
+    {
+      "name": "Training",
+      "count": 5,
+      "slugs": [
+        "core-trainer",
+        "flex-trainer-v2",
+        "apex-lifter",
+        "crossfit-pro",
+        "powerstep-stability"
+      ]
+    }
+  ]
+}

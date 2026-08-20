@@ -11,6 +11,19 @@ const Footer = () => {
           {new Set(products.map((p) => p.category)).size} categories, all shown
           on the shop page.
         </p>
+        <p className="mt-4">
+          The same catalogue is available as JSON at{" "}
+          {/* A plain anchor, so the browser really requests it instead of
+              handing the path to the client-side router. */}
+          <a
+            href="/api/products"
+            className="font-medium text-gray-900 underline underline-offset-2"
+          >
+            /api/products
+          </a>
+          .
+        </p>
+
         <p className="mt-4">© {new Date().getFullYear()} Stride. Demo site.</p>
       </div>
     </footer>

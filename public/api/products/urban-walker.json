@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "slug": "urban-walker",
+  "name": "Urban Walker",
+  "category": "Casual",
+  "price": 64.99,
+  "color": "White",
+  "sizes": [
+    40,
+    41,
+    42,
+    43
+  ],
+  "available": true,
+  "description": "Comfortable everyday sneakers for walking and casual wear.",
+  "image": "/products/shoe-1.svg"
+}

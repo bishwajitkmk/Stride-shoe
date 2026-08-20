@@ -1,0 +1,17 @@
+{
+  "id": 11,
+  "slug": "stride-phantom",
+  "name": "Stride Phantom",
+  "category": "Running",
+  "price": 129.99,
+  "color": "Black",
+  "sizes": [
+    40,
+    41,
+    42,
+    43
+  ],
+  "available": true,
+  "description": "Ultra-lightweight marathon shoe featuring carbon-plate technology.",
+  "image": "/products/shoe-3.svg"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 20,
+  "slug": "sunday-loafer",
+  "name": "Sunday Loafer",
+  "category": "Casual",
+  "price": 69.99,
+  "color": "Tan",
+  "sizes": [
+    38,
+    39,
+    40,
+    41
+  ],
+  "available": false,
+  "description": "A modern take on the classic loafer, featuring a lightweight EVA sole.",
+  "image": "/products/shoe-2.svg"
+}

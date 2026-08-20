@@ -1,0 +1,17 @@
+{
+  "id": 23,
+  "slug": "powerstep-stability",
+  "name": "PowerStep",
+  "category": "Training",
+  "price": 85.99,
+  "color": "White",
+  "sizes": [
+    41,
+    42,
+    43,
+    44
+  ],
+  "available": true,
+  "description": "Extra arch support and a firm heel counter for overpronators.",
+  "image": "/products/shoe-1.svg"
+}

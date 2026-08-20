@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "slug": "coastal-cruiser",
+  "name": "Coastal Cruiser",
+  "category": "Casual",
+  "price": 55.99,
+  "color": "Light Blue",
+  "sizes": [
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "available": true,
+  "description": "Breathable canvas upper paired with a jute-wrapped midsole.",
+  "image": "/products/shoe-2.svg"
+}

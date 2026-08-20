@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "slug": "core-trainer",
+  "name": "Core Trainer",
+  "category": "Training",
+  "price": 74.99,
+  "color": "Black",
+  "sizes": [
+    39,
+    40,
+    41,
+    42,
+    44
+  ],
+  "available": true,
+  "description": "Stable and flat platform designed for weightlifting and gym sessions.",
+  "image": "/products/shoe-2.svg"
+}

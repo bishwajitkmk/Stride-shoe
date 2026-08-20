@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "slug": "lounge-slip-on",
+  "name": "Lounge Slip-On",
+  "category": "Casual",
+  "price": 49.99,
+  "color": "Grey",
+  "sizes": [
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "available": true,
+  "description": "Soft knit upper that hugs your foot like a sock for indoor/outdoor lounging.",
+  "image": "/products/shoe-3.svg"
+}

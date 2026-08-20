@@ -1,0 +1,19 @@
+{
+  "id": 18,
+  "slug": "heritage-leather",
+  "name": "Heritage Leather",
+  "category": "Sneakers",
+  "price": 95,
+  "color": "Brown",
+  "sizes": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+  ],
+  "available": true,
+  "description": "Full-grain leather sneaker that develops a beautiful patina over time.",
+  "image": "/products/shoe-3.svg"
+}

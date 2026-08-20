@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "slug": "street-one",
+  "name": "Street One",
+  "category": "Sneakers",
+  "price": 54.99,
+  "color": "Navy",
+  "sizes": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "available": true,
+  "description": "Minimalist everyday sneaker that pairs effortlessly with any outfit.",
+  "image": "/products/shoe-2.svg"
+}

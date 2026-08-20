@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "slug": "velocity-pro",
+  "name": "Velocity Pro",
+  "category": "Running",
+  "price": 119.99,
+  "color": "Red",
+  "sizes": [
+    41,
+    42,
+    43,
+    44
+  ],
+  "available": true,
+  "description": "Performance road running shoe built for speed and energetic strides.",
+  "image": "/products/shoe-1.svg"
+}

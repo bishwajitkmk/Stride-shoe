@@ -1,0 +1,17 @@
+{
+  "id": 19,
+  "slug": "crossfit-pro",
+  "name": "CrossFit Pro",
+  "category": "Training",
+  "price": 115.99,
+  "color": "Navy",
+  "sizes": [
+    39,
+    40,
+    41,
+    42
+  ],
+  "available": true,
+  "description": "Durable side-grip technology for rope climbs and intense lateral movements.",
+  "image": "/products/shoe-3.svg"
+}

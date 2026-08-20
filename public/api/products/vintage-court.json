@@ -1,0 +1,19 @@
+{
+  "id": 22,
+  "slug": "vintage-court",
+  "name": "Vintage Court",
+  "category": "Sneakers",
+  "price": 75,
+  "color": "Cream",
+  "sizes": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "available": true,
+  "description": "Off-white tones and exposed foam tongue for a true retro aesthetic.",
+  "image": "/products/shoe-3.svg"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 25,
+  "slug": "ultraboost-terra",
+  "name": "UltraBoost Terra",
+  "category": "Running",
+  "price": 135,
+  "color": "Olive/Black",
+  "sizes": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+  ],
+  "available": true,
+  "description": "Maximum cushioning meets rugged durability for long trail expeditions.",
+  "image": "/products/shoe-3.svg"
+}

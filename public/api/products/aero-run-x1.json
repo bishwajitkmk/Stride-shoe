@@ -1,0 +1,19 @@
+{
+  "id": 3,
+  "slug": "aero-run-x1",
+  "name": "AeroRun X1",
+  "category": "Running",
+  "price": 89.99,
+  "color": "Grey",
+  "sizes": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    45
+  ],
+  "available": true,
+  "description": "Breathable mesh upper with high-rebound cushioning for long distances.",
+  "image": "/products/shoe-1.svg"
+}
