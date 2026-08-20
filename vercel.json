@@ -1,9 +1,10 @@
 {
   "rewrites": [
-    { "source": "/api", "destination": "/api/index.json" },
     { "source": "/api/products", "destination": "/api/products.json" },
     { "source": "/api/products/:slug", "destination": "/api/products/:slug.json" },
     { "source": "/api/categories", "destination": "/api/categories.json" },
+    { "source": "/api/bot-products", "destination": "/api/bot-products.json" },
+    { "source": "/api/(.*)", "destination": "/api/$1" },
     { "source": "/(.*)", "destination": "/index.html" }
   ],
   "headers": [
