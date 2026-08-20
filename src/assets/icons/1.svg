@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" width="880" height="620" role="img">
+
+  <defs>
+    <linearGradient id="upper-grad-core-trainer-black" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#353535"/>
+      <stop offset="55%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#101010"/>
+    </linearGradient>
+    <linearGradient id="midsole-grad-core-trainer-black" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8f7f3"/>
+      <stop offset="100%" stop-color="#d2cfca"/>
+    </linearGradient>
+    <radialGradient id="bg-grad-core-trainer-black" cx="0.5" cy="0.42" r="0.75">
+      <stop offset="0%" stop-color="#f8f7f6"/>
+      <stop offset="100%" stop-color="#dedddb"/>
+    </radialGradient>
+    <clipPath id="upper-core-trainer-black"><path d="M 158 434.0 C 150 380.2, 172 338.0, 222 322.6 C 268 317.8, 322 313.0, 372 308.2 C 408 305.4, 440 301.5, 462 295.8 C 486 282.3, 500 257.4, 522 245.8 C 534 240.1, 548 240.1, 558 245.8 C 572 257.4, 578 270.8, 598 274.6 C 622 277.5, 642 268.9, 654 257.4 C 660 252.6, 664 250.6, 668 249.7 C 674 272.7, 679 318.8, 681 361.0 C 682 391.8, 680 416.7, 674 434.0 Z"/></clipPath>
+    <clipPath id="sole-core-trainer-black"><path d="M 136 436.0 C 320 440.0, 520 440.0, 678 428.0 C 688 446.0, 690 474.0, 684 460.0 C 680 476.0, 660 482.0, 620 482.0 L 250 482.0 C 194 482.0, 150 472.0, 132 456.0 C 120 444.0, 122 448.0, 136 436.0 Z"/></clipPath>
+  </defs>
+
+  <rect width="880" height="620" fill="url(#bg-grad-core-trainer-black)"/>
+  <circle cx="404" cy="308" r="242" fill="#f9f9f7" opacity="0.8"/>
+  <circle cx="404" cy="308" r="242" fill="none" stroke="#cecdca" stroke-width="1.5"/>
+
+  <g id="shoe-core-trainer-black">
+    <ellipse cx="404" cy="498" rx="292" ry="17" fill="#141414" opacity="0.12"/>
+
+    <!-- upper -->
+    <path d="M 158 434.0 C 150 380.2, 172 338.0, 222 322.6 C 268 317.8, 322 313.0, 372 308.2 C 408 305.4, 440 301.5, 462 295.8 C 486 282.3, 500 257.4, 522 245.8 C 534 240.1, 548 240.1, 558 245.8 C 572 257.4, 578 270.8, 598 274.6 C 622 277.5, 642 268.9, 654 257.4 C 660 252.6, 664 250.6, 668 249.7 C 674 272.7, 679 318.8, 681 361.0 C 682 391.8, 680 416.7, 674 434.0 Z" fill="url(#upper-grad-core-trainer-black)"/>
+    <g clip-path="url(#upper-core-trainer-black)"><line x1="130" y1="234.0" x2="96" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="150" y1="234.0" x2="116" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="170" y1="234.0" x2="136" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="190" y1="234.0" x2="156" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="210" y1="234.0" x2="176" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="230" y1="234.0" x2="196" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="250" y1="234.0" x2="216" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="270" y1="234.0" x2="236" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="290" y1="234.0" x2="256" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="310" y1="234.0" x2="276" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="330" y1="234.0" x2="296" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="350" y1="234.0" x2="316" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="370" y1="234.0" x2="336" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="390" y1="234.0" x2="356" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="410" y1="234.0" x2="376" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="430" y1="234.0" x2="396" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="450" y1="234.0" x2="416" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="470" y1="234.0" x2="436" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="490" y1="234.0" x2="456" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="510" y1="234.0" x2="476" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="530" y1="234.0" x2="496" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="550" y1="234.0" x2="516" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="570" y1="234.0" x2="536" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="590" y1="234.0" x2="556" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="610" y1="234.0" x2="576" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="630" y1="234.0" x2="596" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="650" y1="234.0" x2="616" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="670" y1="234.0" x2="636" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="690" y1="234.0" x2="656" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/><line x1="710" y1="234.0" x2="676" y2="440.0" stroke="#FFFFFF" stroke-width="1.4" opacity="0.09"/></g>
+
+    <!-- heel counter -->
+    <path d="M 600 282.3 C 626 278.5, 646 265.0, 662 250.6
+      C 674 276.6, 681 345.7, 678 434.0 L 618 434.0
+      C 618 384.1, 616 330.3, 596 303.4 Z"
+      fill="#242424" opacity="0.9"/>
+
+    <!-- collar lining and rim -->
+    <path d="M 528 243.9 C 542 240.1, 550 240.1, 558 245.8
+      C 572 257.4, 578 270.8, 598 274.6
+      C 622 277.5, 642 268.9, 654 257.4
+      C 634 295.8, 568 288.1, 528 243.9 Z"
+      fill="#515151"/>
+    <path d="M 522 245.8 C 534 240.1, 548 240.1, 558 245.8
+      C 572 257.4, 578 270.8, 598 274.6
+      C 622 277.5, 642 268.9, 654 257.4" fill="none"
+      stroke="#646464" stroke-width="3.5" stroke-linecap="round"/>
+
+    <!-- heel pull tab -->
+    <rect x="652" y="242.0" width="20" height="19.2" rx="9"
+      fill="#7e7e7e" opacity="0.85"/>
+
+    <!-- tongue -->
+    <path d="M 456 299.6 C 480 272.7, 502 253.5, 524 243.9
+      L 530 265.0 C 504 270.8, 482 293.8, 468 309.2 Z"
+      fill="#3a3a3a" opacity="0.92"/>
+
+    <!-- lace eyestay -->
+    <path d="M 300 349.5 C 372 341.8, 428 326.5, 486 288.1"
+      fill="none" stroke="#646464" stroke-width="2.5" opacity="0.6"/>
+
+    <path d="M 132 403.3 C 138 364.9, 162 341.8, 206 326.5 L 210 353.4 C 170 364.9, 150 387.9, 148 418.6 Z" fill="#242424"/>
+    <path d="M 296 436.0 L 360 349.5 L 342 349.5 L 278 436.0 Z" fill="#7e7e7e" opacity="0.95"/>
+    <path d="M 350 436.0 L 414 349.5 L 396 349.5 L 332 436.0 Z" fill="#7e7e7e" opacity="0.65"/>
+    <path d="M 392 312.5 L 368 338.6" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="368" cy="338.6" r="4.5" fill="#2A2A2A" opacity="0.8"/>
+    <path d="M 424 308.0 L 400 334.4" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="400" cy="334.4" r="4.5" fill="#2A2A2A" opacity="0.8"/>
+    <path d="M 452 304.1 L 428 330.5" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="428" cy="330.5" r="4.5" fill="#2A2A2A" opacity="0.8"/>
+    <path d="M 478 289.9 L 454 326.9" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="454" cy="326.9" r="4.5" fill="#2A2A2A" opacity="0.8"/>
+    <path d="M 502 270.6 L 478 312.9" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="478" cy="312.9" r="4.5" fill="#2A2A2A" opacity="0.8"/>
+
+    <!-- sole -->
+    <path d="M 136 436.0 C 320 440.0, 520 440.0, 678 428.0 C 688 446.0, 690 474.0, 684 460.0 C 680 476.0, 660 482.0, 620 482.0 L 250 482.0 C 194 482.0, 150 472.0, 132 456.0 C 120 444.0, 122 448.0, 136 436.0 Z" fill="url(#midsole-grad-core-trainer-black)"/>
+    <path d="M 168 443.0 C 340 447.0, 520 447.0,
+      664 437.0" fill="none" stroke="#dcd9d4"
+      stroke-width="2.5" opacity="0.6"/>
+    <path d="M 176 431.0 C 344 435.0, 516 435.0,
+      656 426.0" fill="none" stroke="#FFFFFF"
+      stroke-width="1.8" stroke-dasharray="7 8" opacity="0.35"/>
+    <g clip-path="url(#sole-core-trainer-black)">
+      <path d="M 100 446.0 C 100 474.0, 150 486.0, 210 486.0 L 640 486.0 C 680 486.0, 700 472.0, 700 450.0 C 560 456.0, 250 454.0, 100 446.0 Z" fill="#C6C0B3"/>
+      <rect x="128" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="158" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="188" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="218" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="248" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="278" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="308" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="338" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="368" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="398" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="428" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="458" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="488" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="518" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="548" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="578" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="608" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="638" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="668" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+      <rect x="698" y="458.0" width="15" height="19" rx="4" fill="#837f76" opacity="0.38"/>
+    </g>
+
+    <!-- silhouette edge, keeps dark colourways legible -->
+    <path d="M 158 434.0 C 150 380.2, 172 338.0, 222 322.6 C 268 317.8, 322 313.0, 372 308.2 C 408 305.4, 440 301.5, 462 295.8 C 486 282.3, 500 257.4, 522 245.8 C 534 240.1, 548 240.1, 558 245.8 C 572 257.4, 578 270.8, 598 274.6 C 622 277.5, 642 268.9, 654 257.4 C 660 252.6, 664 250.6, 668 249.7 C 674 272.7, 679 318.8, 681 361.0 C 682 391.8, 680 416.7, 674 434.0 Z" fill="none" stroke="#0b0b0b"
+      stroke-width="2.2" opacity="0.5"/>
+  </g>
+
+</svg>

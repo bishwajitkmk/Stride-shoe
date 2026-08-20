@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" width="880" height="620" role="img">
+
+  <defs>
+    <linearGradient id="upper-grad-street-one-leather-white" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#f6f6f4"/>
+      <stop offset="55%" stop-color="#F4F4F2"/>
+      <stop offset="100%" stop-color="#c3c3c2"/>
+    </linearGradient>
+    <linearGradient id="midsole-grad-street-one-leather-white" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8f7f3"/>
+      <stop offset="100%" stop-color="#d2cfca"/>
+    </linearGradient>
+    <radialGradient id="bg-grad-street-one-leather-white" cx="0.5" cy="0.42" r="0.75">
+      <stop offset="0%" stop-color="#e6e5e3"/>
+      <stop offset="100%" stop-color="#bab8b3"/>
+    </radialGradient>
+    <clipPath id="upper-street-one-leather-white"><path d="M 158 440.0 C 150 388.5, 172 348.0, 222 333.3 C 268 328.7, 322 324.1, 372 319.5 C 408 316.7, 440 313.0, 462 307.5 C 486 294.6, 500 270.7, 522 259.7 C 534 254.2, 548 254.2, 558 259.7 C 572 270.7, 578 283.6, 598 287.3 C 622 290.0, 642 281.8, 654 270.7 C 660 266.1, 664 264.3, 668 263.4 C 674 285.4, 679 329.6, 681 370.1 C 682 399.5, 680 423.4, 674 440.0 Z"/></clipPath>
+    <clipPath id="sole-street-one-leather-white"><path d="M 136 442.0 C 320 446.0, 520 448.0, 678 436.0 C 688 454.0, 690 482.0, 684 460.0 C 680 476.0, 660 482.0, 620 482.0 L 250 482.0 C 194 482.0, 150 472.0, 132 456.0 C 120 444.0, 122 454.0, 136 442.0 Z"/></clipPath>
+  </defs>
+
+  <rect width="880" height="620" fill="url(#bg-grad-street-one-leather-white)"/>
+  <circle cx="404" cy="308" r="242" fill="#eae9e7" opacity="0.8"/>
+  <circle cx="404" cy="308" r="242" fill="none" stroke="#acaaa6" stroke-width="1.5"/>
+
+  <g id="shoe-street-one-leather-white">
+    <ellipse cx="404" cy="498" rx="292" ry="17" fill="#141414" opacity="0.12"/>
+
+    <!-- upper -->
+    <path d="M 158 440.0 C 150 388.5, 172 348.0, 222 333.3 C 268 328.7, 322 324.1, 372 319.5 C 408 316.7, 440 313.0, 462 307.5 C 486 294.6, 500 270.7, 522 259.7 C 534 254.2, 548 254.2, 558 259.7 C 572 270.7, 578 283.6, 598 287.3 C 622 290.0, 642 281.8, 654 270.7 C 660 266.1, 664 264.3, 668 263.4 C 674 285.4, 679 329.6, 681 370.1 C 682 399.5, 680 423.4, 674 440.0 Z" fill="url(#upper-grad-street-one-leather-white)"/>
+    <g clip-path="url(#upper-street-one-leather-white)"><ellipse cx="330" cy="378.0" rx="150" ry="40" fill="#FFFFFF" opacity="0.20"/></g>
+
+    <!-- heel counter -->
+    <path d="M 600 294.6 C 626 291.0, 646 278.1, 662 264.3
+      C 674 289.1, 681 355.4, 678 440.0 L 618 440.0
+      C 618 392.2, 616 340.6, 596 314.9 Z"
+      fill="#d2d2d0" opacity="0.9"/>
+
+    <!-- collar lining and rim -->
+    <path d="M 528 257.8 C 542 254.2, 550 254.2, 558 259.7
+      C 572 270.7, 578 283.6, 598 287.3
+      C 622 290.0, 642 281.8, 654 270.7
+      C 634 307.5, 568 300.2, 528 257.8 Z"
+      fill="#a1a1a0"/>
+    <path d="M 522 259.7 C 534 254.2, 548 254.2, 558 259.7
+      C 572 270.7, 578 283.6, 598 287.3
+      C 622 290.0, 642 281.8, 654 270.7" fill="none"
+      stroke="#b5b5b3" stroke-width="3.5" stroke-linecap="round"/>
+
+    <!-- heel pull tab -->
+    <rect x="652" y="256.0" width="20" height="18.4" rx="9"
+      fill="#9f9f9d" opacity="0.85"/>
+
+    <!-- tongue -->
+    <path d="M 456 311.2 C 480 285.4, 502 267.0, 524 257.8
+      L 530 278.1 C 504 283.6, 482 305.7, 468 320.4 Z"
+      fill="#FFFFFF" opacity="0.92"/>
+
+    <!-- lace eyestay -->
+    <path d="M 300 359.0 C 372 351.7, 428 337.0, 486 300.2"
+      fill="none" stroke="#b5b5b3" stroke-width="2.5" opacity="0.6"/>
+
+    
+    <path d="M 292 426.0 L 470 329.6 L 470 370.1 L 292 442.0 Z" fill="#9f9f9d"/>
+    <path d="M 392 323.8 L 368 349.8" stroke="#ababa9" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="368" cy="349.8" r="4.5" fill="#b0b0ae" opacity="0.8"/>
+    <path d="M 424 319.6 L 400 345.8" stroke="#ababa9" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="400" cy="345.8" r="4.5" fill="#b0b0ae" opacity="0.8"/>
+    <path d="M 452 315.8 L 428 342.0" stroke="#ababa9" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="428" cy="342.0" r="4.5" fill="#b0b0ae" opacity="0.8"/>
+    <path d="M 478 302.2 L 454 338.6" stroke="#ababa9" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="454" cy="338.6" r="4.5" fill="#b0b0ae" opacity="0.8"/>
+    <path d="M 502 283.7 L 478 325.2" stroke="#ababa9" stroke-width="9" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="478" cy="325.2" r="4.5" fill="#b0b0ae" opacity="0.8"/>
+
+    <!-- sole -->
+    <path d="M 136 442.0 C 320 446.0, 520 448.0, 678 436.0 C 688 454.0, 690 482.0, 684 460.0 C 680 476.0, 660 482.0, 620 482.0 L 250 482.0 C 194 482.0, 150 472.0, 132 456.0 C 120 444.0, 122 454.0, 136 442.0 Z" fill="url(#midsole-grad-street-one-leather-white)"/>
+    <path d="M 168 449.0 C 340 453.0, 520 455.0,
+      664 445.0" fill="none" stroke="#dcd9d4"
+      stroke-width="2.5" opacity="0.6"/>
+    <path d="M 176 437.0 C 344 441.0, 516 443.0,
+      656 434.0" fill="none" stroke="#8e8e8c"
+      stroke-width="1.8" stroke-dasharray="7 8" opacity="0.35"/>
+    <g clip-path="url(#sole-street-one-leather-white)">
+      <path d="M 100 446.0 C 100 474.0, 150 486.0, 210 486.0 L 640 486.0 C 680 486.0, 700 472.0, 700 450.0 C 560 456.0, 250 454.0, 100 446.0 Z" fill="#C6C0B3"/>
+      <path d="M 124 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 151 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 178 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 205 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 232 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 259 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 286 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 313 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 340 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 367 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 394 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 421 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 448 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 475 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 502 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 529 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 556 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 583 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 610 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 637 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 664 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+      <path d="M 691 477.0 l 12 -18" stroke="#837f76" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+    </g>
+
+    <!-- silhouette edge, keeps dark colourways legible -->
+    <path d="M 158 440.0 C 150 388.5, 172 348.0, 222 333.3 C 268 328.7, 322 324.1, 372 319.5 C 408 316.7, 440 313.0, 462 307.5 C 486 294.6, 500 270.7, 522 259.7 C 534 254.2, 548 254.2, 558 259.7 C 572 270.7, 578 283.6, 598 287.3 C 622 290.0, 642 281.8, 654 270.7 C 660 266.1, 664 264.3, 668 263.4 C 674 285.4, 679 329.6, 681 370.1 C 682 399.5, 680 423.4, 674 440.0 Z" fill="none" stroke="#868685"
+      stroke-width="2.2" opacity="0.5"/>
+  </g>
+
+</svg>
